@@ -1,24 +1,40 @@
-#### About:
+### About:
 - I love vanilla JS
 - HTML, CSS Ninja
-- I know about Flow and I believe that the development is a creative process.
+- I know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
-#### Version Control System:
+
+### Companies
+#### [Exadel](https://exadel.com) – 2014/present
+Position: UI Software Engineer
+___
+#### [Gurtam](https://gurtam.com) – 2013/2014
+Position: Frontend Developer
+___
+#### [SaMSolutions](https://www.sam-solutions.com) – 2011/2013
+Position: UI Developer
+___
+#### 1stDesignStudio – 2010/2011
+Position: HTML & CSS Developer
+___
+
+
+### Version Control System:
 - svn, git
 
-#### Bug tracking system:
+### Bug tracking system:
 - Jira
 - Redmine
 - FogBugz
 
-#### Methodology know:
+### Methodology know:
 - BEM
 - SCRUM
 
-#### Use in html:
-- Типограф Муравьёва
+### Use in html:
+- [Типограф Муравьёва](http://mdash.ru)
 
-#### css:
+### css:
 - bootstrap, gummy
 - less, sass, scss
 - transforms, animations, transitions
@@ -26,7 +42,7 @@
 - media queries
 - expressions in IE
 
-#### javascript:
+### javascript:
 - jQuery, Underscore, Lodash
 - jQuery Mobile, AngularJS, Angular, BackboneJS, Sencha touch 2
 - Fabric.js, D3js
@@ -35,7 +51,7 @@
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
 
-#### Have experience in:
+### Have experience in:
 - Mobile Web App based Sencha 2 and jQuery Mobile
 - Makeup pages for JAVA, .NET, PHP, Ruby
 - Responsive Web Design and Page Makeup
@@ -48,24 +64,28 @@
 - js profiling
 - css-expressions
 
-#### other:
+### other:
 - PHP, TCL
 - Web Design
+- MySQL
 - 3D Object Modeling
+- Apache Tomcat, Maven
 - WebFonts IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
 - Aptana,Brackets, SublimeText 2, Visual Studio Code
-- Photoshop, Illustrator, Color quantize
+- Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 - 3D Max
 
-#### OS:
+### OS:
 - Windows ( XP++ )
 - Mac OS ( 10.8+ )
 - Ubuntu, Debian
 
-#### Have:
-iPad 4 (iOS 10)
+### Have:
+- iPad 4 (iOS 10)
+- MacBook Air 11.6-inch (macOS Siera 10.12.6)
+- PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
-#### Languages:
-Russian ( native )
-English ( intermediate )
+### Languages:
+- Russian ( native )
+- English ( intermediate )
