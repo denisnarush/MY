@@ -85,7 +85,7 @@ ___
 - 3D Max
 
 ### readed:
-- [Understanding ECMAScript 6 by Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
+- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
 
 ### OS:
 - Windows ( XP++ )
