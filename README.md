@@ -37,6 +37,7 @@ ___
 ### html:
 - HTML 4.0 +
 - Jade, Haml
+- [emmet](https://emmet.io)
 
 ### css:
 - CSS 2.0+
@@ -82,6 +83,9 @@ ___
 - Aptana,Brackets, SublimeText 2, Visual Studio Code
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 - 3D Max
+
+### readed:
+- [Understanding ECMAScript 6 by Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
 
 ### OS:
 - Windows ( XP++ )
