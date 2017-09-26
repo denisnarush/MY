@@ -34,7 +34,12 @@ ___
 ### Use in html:
 - [Типограф Муравьёва](http://mdash.ru)
 
+### html:
+- HTML 4.0 +
+- Jade, Haml
+
 ### css:
+- CSS 2.0+
 - bootstrap, gummy
 - less, sass, scss
 - transforms, animations, transitions
@@ -43,10 +48,12 @@ ___
 - expressions in IE
 
 ### javascript:
+- ES5, ES6+
 - jQuery, Underscore, Lodash
-- jQuery Mobile, AngularJS, Angular, BackboneJS, Sencha touch 2
+- jQuery Mobile, AngularJS, Angular 2+, BackboneJS, Sencha touch 2
 - Fabric.js, D3js
-- Handlebars, Mustache
+- Handlebars, Mustache,
+- TypeScript
 - jasmine
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
