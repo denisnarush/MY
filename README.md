@@ -92,7 +92,7 @@ ___
 - Mac OS ( 10.8+ )
 - Ubuntu, Debian
 
-### Have:
+### Working on:
 - iPad 4 (iOS 10)
 - MacBook Air 11.6-inch (macOS Siera 10.12.6)
 - PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
