@@ -58,7 +58,7 @@ ___
 - jQuery, Underscore, Lodash
 - jQuery Mobile, AngularJS, Angular 2+, BackboneJS, Sencha touch 2
 - Fabric.js, D3js
-- [{{mustache}}](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
+- [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - TypeScript
 - [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
 - Karma, Grunt, Gulp, Webpack
