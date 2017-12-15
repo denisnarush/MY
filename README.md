@@ -7,6 +7,7 @@
 ### Companies
 #### [Exadel](https://exadel.com) – 2014/present
 Position: UI Software Engineer
+
 ___
 #### [Gurtam](https://gurtam.com) – 2013/2014
 Position: Frontend Developer
