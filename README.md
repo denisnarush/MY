@@ -48,7 +48,7 @@ ___
 - CSS 2.0+
 - bootstrap, gummy
 - less, sass, scss
-- transforms, animations, transitions
+- transforms, transitions, animations
 - flex, grids
 - media queries
 - expressions in IE
@@ -58,16 +58,17 @@ ___
 - jQuery, Underscore, Lodash
 - jQuery Mobile, AngularJS, Angular 2+, BackboneJS, Sencha touch 2
 - Fabric.js, D3js
-- Handlebars, Mustache,
+- [{{mustache}}](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - TypeScript
-- jasmine
+- [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
 
 ### Have experience in:
 - Mobile Web App based Sencha 2 and jQuery Mobile
-- [nwjs](https://nwjs.io)
+- [nwjs](https://nwjs.io), [electron](https://electronjs.org)
 - Makeup pages for JAVA, .NET, PHP, Ruby
+- Books of epub format
 - Responsive Web Design and Page Makeup
 - Hybrid app development (HTML + SASS + JS(AngularJS) + Cordova)
 - e2e-testing hybrid application using protractor and appium
@@ -90,7 +91,7 @@ ___
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 - 3D Max
 
-### readed:
+### reading:
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
 
 ### OS:
@@ -99,7 +100,7 @@ ___
 - Ubuntu, Debian
 
 ### Working on:
-- iPad 4 (iOS 10)
+- iPad 4
 - MacBook Air 11.6-inch (macOS Siera 10.12.6)
 - PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
