@@ -3,6 +3,8 @@
 - HTML, CSS Ninja
 - I know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
+### Contacts
+✉ [child.denis@gmail.com](mailto:child.denis@gmail.com)
 
 ### Companies
 #### [Exadel](https://exadel.com) – 2014/present
