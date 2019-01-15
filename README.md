@@ -31,8 +31,7 @@ Position: HTML & CSS Developer
 
 ___
 
-
-
+![](https://thumb.cloud.mail.ru/weblink/thumb/xw1/8TLg/zxCjwGcfJ/IMG_9551.jpg?x-email=pomahtik%40inbox.ru)
 ### Version Control System:
 - svn, git
 
