@@ -2,9 +2,13 @@
 - I love vanilla JS
 - HTML, CSS Ninja
 - I know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
+- Have 3 years of mentoring experience. All students successfully found jobs in IT-companies.
 
 ### Contacts
 ✉ [child.denis@gmail.com](mailto:child.denis@gmail.com)
+
+### Gist
+[Link](https://gist.github.com/denisnarush) to my Gist
 
 ### Companies
 #### [Exadel](https://exadel.com) – 2014/present
