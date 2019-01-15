@@ -1,7 +1,7 @@
 ### About:
 - I love vanilla JS
 - HTML, CSS Ninja
-- I know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
+- Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
 - Have more than 9 years of commercial experience.
 - Have 3 years of mentoring experience. All students successfully found jobs in IT-companies
 - Working on my personal view of how can be [music player](https://github.com/denisnarush/mp) used for searching new music to listen
