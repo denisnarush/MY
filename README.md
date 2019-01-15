@@ -110,8 +110,8 @@ ___
 - Ubuntu, Debian
 
 ### Working on:
-- iPad 4
-- MacBook Air 11.6-inch (macOS Siera 10.12.6)
+- MacBook PRO 13' (macOS Mojave 10.14)
+- iPhone X 64Gb
 - PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Languages:
