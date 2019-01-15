@@ -94,7 +94,9 @@ ___
 - 3D Max
 
 ### reading:
-- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
+- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas- [Reading](#reading)
+- [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ### OS:
 - Windows ( XP++ )
