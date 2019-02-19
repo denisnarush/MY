@@ -1,4 +1,3 @@
-[iOS](itms-services://?action=download-manifest&url=https://denisnarush.github.io/MY/MyApp.plist)
 ### About:
 - I love vanilla JS
 - HTML, CSS Ninja
