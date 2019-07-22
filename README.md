@@ -64,7 +64,8 @@ ___
 ### javascript:
 - ES5, ES6+
 - jQuery, Underscore, Lodash
-- jQuery Mobile, AngularJS, Angular 2+, BackboneJS, Sencha touch 2
+- jQuery Mobile, Sencha touch 2, [Ionic](https://ionicframework.com/)
+- BackboneJS, AngularJS, Angular 2+
 - Fabric.js, D3js
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - TypeScript
@@ -76,9 +77,9 @@ ___
 - Mobile Web App based Sencha 2 and jQuery Mobile
 - [nwjs](https://nwjs.io), [electron](https://electronjs.org)
 - Makeup pages for JAVA, .NET, PHP, Ruby
-- Books of epub format
+- [.epub format](https://en.wikipedia.org/wiki/EPUB)
 - Responsive Web Design and Page Makeup
-- Hybrid app development (HTML + SASS + JS(AngularJS) + Cordova)
+- Hybrid app development (HTML + SASS + JS(Angular) + Ionic v4+(Cordova))
 - e2e-testing hybrid application using protractor and appium
 - Google and Yandex maps API
 - SASS, SCSS, LESS, HAML
