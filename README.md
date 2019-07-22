@@ -10,8 +10,7 @@
 ### Contacts
 ✉ [child.denis@gmail.com](mailto:child.denis@gmail.com)
 
-### Gist
-[Link](https://gist.github.com/denisnarush) to my Gist
+   [skype:denisnarush](skype:denisnarush?chat)
 
 ### Companies
 #### [Exadel](https://exadel.com) – 2014/present
@@ -104,6 +103,9 @@ ___
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
 - [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+### Gist
+[Link](https://gist.github.com/denisnarush) to my Gist
 
 ### OS:
 - Windows ( XP++ )
