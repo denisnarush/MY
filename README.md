@@ -82,6 +82,7 @@ ___
 - e2e-testing hybrid application using protractor and appium
 - Google and Yandex maps API
 - SASS, SCSS, LESS, HAML
+- [NX for Monorepos](https://nx.dev/)
 - canvas, SVG
 - graphic optimization and sprites
 - js profiling
@@ -91,11 +92,12 @@ ___
 - PHP, TCL
 - Web Design
 - MySQL
-- [NX for Monorepos](https://nx.dev/)
 - [Jenkins](https://jenkins.io/)
 - 3D Object Modeling
 - Apache Tomcat, Maven
-- WebFonts IDE & EDITORS:
+- WebFonts
+
+### IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
 - Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
