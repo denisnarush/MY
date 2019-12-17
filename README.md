@@ -52,7 +52,7 @@ ___
 
 ### css:
 - CSS 2.0+
-- bootstrap, gummy
+- bootstrap, gummy, [bulma](https://bulma.io/)
 - less, sass, scss
 - transforms, transitions, animations
 - flex, grids
@@ -60,11 +60,12 @@ ___
 - expressions in IE
 
 ### javascript:
-- ES5, ES6+
+- ES5+
 - jQuery, Underscore, Lodash
-- jQuery Mobile, Sencha touch 2, [Ionic](https://ionicframework.com/)
+- jQuery Mobile, Sencha touch 2, [Ionic 3+](https://ionicframework.com/)
 - BackboneJS, AngularJS, Angular 2+
 - Fabric.js, D3js
+- [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - TypeScript
 - [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
@@ -90,11 +91,13 @@ ___
 - PHP, TCL
 - Web Design
 - MySQL
+- [NX for Monorepos](https://nx.dev/)
+- [Jenkins](https://jenkins.io/)
 - 3D Object Modeling
 - Apache Tomcat, Maven
 - WebFonts IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
-- Aptana,Brackets, SublimeText 2, Visual Studio Code
+- Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 - 3D Max
 
