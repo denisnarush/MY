@@ -68,13 +68,14 @@ ___
 - [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - TypeScript
-- [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
+- [Jest](https://jestjs.io/), [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
 
 ### Have experience in:
 - Mobile Web App based Sencha 2 and jQuery Mobile
 - [nwjs](https://nwjs.io), [electron](https://electronjs.org)
+- [TSLint](https://palantir.github.io/tslint/)
 - Makeup pages for JAVA, .NET, PHP, Ruby
 - [.epub format](https://en.wikipedia.org/wiki/EPUB)
 - Responsive Web Design and Page Makeup
@@ -85,7 +86,7 @@ ___
 - [NX for Monorepos](https://nx.dev/)
 - canvas, SVG
 - graphic optimization and sprites
-- js profiling
+- js profiling and code coverage
 - css-expressions
 
 ### other:
