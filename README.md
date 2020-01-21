@@ -30,6 +30,9 @@ Position: HTML & CSS Developer
 
 ___
 
+### Commerce projects
+*comming soon*
+
 
 ### Version Control System:
 - svn, git
@@ -122,6 +125,9 @@ ___
 - MacBook PRO 13' (macOS Mojave 10.14)
 - iPhone X 64Gb
 - PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
+
+### Personal projects
+*comming soon*
 
 ### Languages:
 - Russian ( native )
