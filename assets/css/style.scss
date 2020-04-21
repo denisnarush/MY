@@ -13,13 +13,14 @@
 [id^="gurtam"]:before,
 [id^="sam-solutions"]:before {
     content: "";
+    left: 100%;
+    position: relative;
     display: inline-block;
     background-size: cover;
     vertical-align: middle;
     margin: 0 0 0 -32px;
     background-position: center center;
     background-repeat: no-repeat;
-    transform: translateX(-25%);
     width: 32px;
     height: 32px;
 }
