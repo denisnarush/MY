@@ -7,7 +7,6 @@
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 
 ### Contacts
-- [git](//github.com/denisnarush)
 - ✉ [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - [skype:denisnarush](skype:denisnarush?chat)
 
