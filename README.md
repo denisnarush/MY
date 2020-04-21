@@ -127,7 +127,7 @@ ___
 - PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Personal projects
-*comming soon*
+[chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
 
 ### Languages:
 - Russian ( native )
