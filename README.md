@@ -7,6 +7,7 @@
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 
 ### Contacts
+- ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
@@ -136,3 +137,4 @@ ___
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
+[github-icon]: https://img.icons8.com/windows/20/000000/github.png "GitHub Icon"
