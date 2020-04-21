@@ -9,6 +9,37 @@
   }
 }
 
+[id^="exadel"]:before {
+    content: "";
+    display: inline-block;
+    background-size: cover;
+    vertical-align: middle;
+    margin: 0 0 0 -32px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transform: translateX(-25%);
+    width: 32px;
+    height: 32px;
+}
+
+
+[id^="gurtam"]:before {
+    background-image: url("https://gurtam.com/favicon.ico");
+}
+
+[id^="exadel"]:before {
+  background-image: url("https://exadel.com/wp-content/uploads/2017/04/favicon-1.ico");
+}
+
+[id^="sam-solutions"]:before {
+    background-color: #3270B7;
+    background-image: url("https://sam-solutions.com/bitrix/templates/sam/img/logo.png");
+    background-size: 54px 30px;
+    margin: 0 0 0 -58px;
+    width: 58px;
+    height: 32px;
+}
+
 footer {
   display: none;
 }
