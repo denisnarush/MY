@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+header {
+  .view {
+    display: none;
+  }
+}
+
+footer {
+  display: none;
+}
+
 #contacts + ul {
   img {
     vertical-align: top;
@@ -41,8 +51,4 @@
     margin: 0 0 0 -58px;
     width: 58px;
     height: 32px;
-}
-
-footer {
-  display: none;
 }
