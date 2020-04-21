@@ -7,8 +7,10 @@
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 
 ### Contacts
-- ✉ [child.denis@gmail.com](mailto:child.denis@gmail.com)
-- [skype:denisnarush](skype:denisnarush?chat)
+- ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
+- ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
+
+
 
 
 ### Companies
@@ -131,3 +133,7 @@ ___
 ### Languages:
 - Russian ( native )
 - English ( intermediate )
+
+
+[skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
+[email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
