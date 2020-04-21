@@ -32,17 +32,7 @@ Position: HTML & CSS Developer
 ___
 
 ### Commerce projects
-[Verifone](https://verifone.com)
-
-[GHX](https://ghx.com)
-
-[Wolters Kluwer](https://wolterskluwer.com)
-
-[Wialon](https://gurtam.com/en/wialon)
-
-[CenterParcs](https://www.centerparcs.com)
-
-[HLX](https://www.hlx.com)
+[Verifone](https://verifone.com), [GHX](https://ghx.com), [Wolters Kluwer](https://wolterskluwer.com), [Wialon](https://gurtam.com/en/wialon), [HLX](https://www.hlx.com), [CenterParcs](https://www.centerparcs.com)
 
 ### Version Control System:
 - svn, git
