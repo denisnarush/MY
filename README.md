@@ -22,7 +22,7 @@ ___
 Position: Frontend Developer
 
 ___
-#### [SaMSolutions](https://www.sam-solutions.com) – 2011/2013
+#### [SaM-Solutions](https://www.sam-solutions.com) – 2011/2013
 Position: UI Developer
 
 ___
