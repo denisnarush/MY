@@ -132,8 +132,8 @@ ___
 [chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
 
 ### Languages:
-- Russian ( native )
-- English ( intermediate )
+- Russian
+- English
 
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
