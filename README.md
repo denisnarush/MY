@@ -8,6 +8,7 @@
 
 ### Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
+- ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
@@ -138,3 +139,4 @@ ___
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
 [github-icon]: https://img.icons8.com/windows/20/000000/github.png "GitHub Icon"
+[linkedin-icon]: https://img.icons8.com/windows/20/000000/linkedin.png "LinkedIn Icon"
