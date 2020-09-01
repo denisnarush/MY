@@ -116,6 +116,10 @@ ___
 - [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
+### Plans:
+- Shell scripting for Windows, Linux, Mac
+- [Docker](https://www.docker.com/)
+
 ### Gist
 [Link](https://gist.github.com/denisnarush) to my Gist
 
