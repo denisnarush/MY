@@ -117,6 +117,7 @@ ___
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ### Plans:
+- [ReactJS](https://reactjs.org/)
 - Shell scripting for Windows, Linux, Mac
 - [Docker](https://www.docker.com/)
 
