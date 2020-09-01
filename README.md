@@ -1,4 +1,4 @@
-- I love vanilla JS
+- I ❤ vanilla JS
 - HTML, CSS Ninja
 - Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
 - Have more than 10 years of commercial experience
