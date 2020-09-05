@@ -72,6 +72,7 @@ ___
 - BackboneJS
 - AngularJS, Angular 2+
 - Fabric.js, D3js
+- [JSDoc](https://jsdoc.app)
 - [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
 - [TypeScript](https://www.typescriptlang.org)
