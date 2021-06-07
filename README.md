@@ -142,6 +142,9 @@ ___
 - Russian
 - English
 
+### Certificates:
+- [Typing.com - Beginner Uinit](https://www.typing.com/apiv1/student/units/1/108551407/certificate), [Typing.com - Intermediate Unit](https://www.typing.com/apiv1/student/units/2/108551407/certificate)
+
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
