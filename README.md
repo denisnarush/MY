@@ -2,7 +2,7 @@
 - HTML, CSS Ninja
 - Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
 - Have more than 10 years of commercial experience
-- Have 3 years of mentoring experience. All students successfully found jobs in IT-companies
+- Have 5 years of mentoring experience. All students successfully found jobs in IT-companies
 - Working on my personal view of how can be [music player](https://github.com/denisnarush/mp) used for searching new music to listen
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 
