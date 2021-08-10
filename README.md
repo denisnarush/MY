@@ -16,7 +16,10 @@
 
 
 ### Companies
-#### [Exadel](https://exadel.com) – 2014/present
+#### [Exadel](https://exadel.com) – 2020/present
+Position: Senior Software Engineer. (UI, Front-End department)
+
+#### [Exadel](https://exadel.com) – 2014/2020
 Position: UI Software Engineer
 
 ___
