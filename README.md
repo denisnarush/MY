@@ -48,7 +48,8 @@ ___
 - FogBugz
 
 ### Methodology know:
-- BEM
+- [BEM](https://en.bem.info/)
+- [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - SCRUM
 
 ### Use in html:
@@ -108,6 +109,7 @@ ___
 - 3D Object Modeling
 - Apache Tomcat, Maven
 - WebFonts
+- Debugging, memory leaks identification and bug solving skill
 
 ### IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
