@@ -71,15 +71,15 @@ ___
 
 ### javascript:
 - ES5+
-- jQuery, Underscore, Lodash
-- jQuery Mobile, Sencha touch 2, [Ionic 3+](https://ionicframework.com/)
-- BackboneJS
 - AngularJS, Angular 2+
+- [TypeScript](https://www.typescriptlang.org)
+- [Ionic 3+](https://ionicframework.com/), jQuery Mobile, Sencha touch 2
+- Underscore, Lodash, jQuery,
+- BackboneJS
 - Fabric.js, D3js
 - [JSDoc](https://jsdoc.app)
 - [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
-- [TypeScript](https://www.typescriptlang.org)
 - [Jest](https://jestjs.io/), [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
