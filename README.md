@@ -143,7 +143,7 @@ ___
 
 ### Languages:
 - Russian
-- English
+- English (B1+)
 
 ### Certificates:
 - Typing.com
