@@ -25,10 +25,9 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
 ## Plans:
-- [ReactJS](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
 - Shell scripting for Windows, Linux, Mac
-- [Docker](https://www.docker.com/)
-- Grow in Tech Lead way
+- Grow into a technical lead and then become a chief engineer
 - Understang Quantum programming
 
 ## Companies
