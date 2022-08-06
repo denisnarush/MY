@@ -156,23 +156,15 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 - 3D Max
 
-### Gist
-[Link](https://gist.github.com/denisnarush) to my Gist
-
 ### OS:
 - Windows ( XP++ ), Mac OS ( 10.8+ ), Ubuntu, Debian
 
 ### Working Setup:
 - iPhone X 64Gb
-- MacBook PRO 13' (macOS Mojave 10.14)
 - PC (32Gb RAM, 4Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Personal projects
 [subme](https://github.com/denisnarush/subme), [chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
-
-### Languages:
-- Russian
-- English (B2)
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
