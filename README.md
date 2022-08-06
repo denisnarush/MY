@@ -22,24 +22,24 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 
 
 ### Companies
-[**Exadel**](https://exadel.com) – 2020/present <br>
+#### [**Exadel**](https://exadel.com) – 2020/present <br>
 Position: Senior Software Engineer. (UI, Front-End department) <br>
-[**Exadel**](https://exadel.com) – 2014/2020 <br>
+#### [**Exadel**](https://exadel.com) – 2014/2020 <br>
 Position: UI Software Engineer <br>
 ___
 
 
-[**Gurtam**](https://gurtam.com) – 2013/2014 <br>
+#### [**Gurtam**](https://gurtam.com) – 2013/2014 <br>
 Position: Frontend Developer
 ___
 
 
-[**SaM-Solutions**](https://www.sam-solutions.com) – 2011/2013 <br>
+#### [**SaM-Solutions**](https://www.sam-solutions.com) – 2011/2013 <br>
 Position: UI Developer
 ___
 
 
-**1stDesignStudio** – 2010/2011 <br>
+#### **1stDesignStudio** – 2010/2011 <br>
 Position: HTML & CSS Developer <br>
 ___
 
