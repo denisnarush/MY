@@ -1,4 +1,5 @@
-I ❤ vanilla JS. HTML, CSS Ninja
+### Who I am
+Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja
 
 Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
 
@@ -26,22 +27,15 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 Position: Senior Software Engineer. (UI, Front-End department) <br>
 #### [**Exadel**](https://exadel.com) – 2014/2020 <br>
 Position: UI Software Engineer <br>
-___
-
 
 #### [**Gurtam**](https://gurtam.com) – 2013/2014 <br>
 Position: Frontend Developer
-___
-
 
 #### [**SaM-Solutions**](https://www.sam-solutions.com) – 2011/2013 <br>
 Position: UI Developer
-___
-
 
 #### **1stDesignStudio** – 2010/2011 <br>
 Position: HTML & CSS Developer <br>
-___
 
 ### Commerce projects
 **Verifone App Marketplace** <br>
