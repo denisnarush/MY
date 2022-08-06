@@ -21,6 +21,7 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
+_CV was updated in Aug 2022_
 
 ## Companies
 ### [Exadel](https://exadel.com) – 2020/present <br>
@@ -169,8 +170,6 @@ Portal for Center Parcs Europe is a European network of holiday villages that wa
 ### Languages:
 - Russian
 - English (B2)
-
-_Updated in Aug 2022_
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
