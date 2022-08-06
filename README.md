@@ -162,7 +162,7 @@ Portal for Center Parcs Europe is a European network of holiday villages that wa
 - PC (32Gb RAM, 4Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Personal projects
-[chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
+[subme](https://github.com/denisnarush/subme), [chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
 
 ### Languages:
 - Russian
