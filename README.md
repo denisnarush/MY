@@ -1,4 +1,4 @@
-### Who I am
+## Who I am
 Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja
 
 Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
@@ -15,29 +15,29 @@ Have personal [project](https://github.com/users/denisnarush/projects/6) were I 
 
 Was working on my personal idea of how [music player](https://github.com/denisnarush/mp) could be used to find and listen to new music before SoundCloud changed its API terms of service.
 
-### Contacts
+## Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
 - ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
 
-### Companies
-#### [**Exadel**](https://exadel.com) – 2020/present <br>
+## Companies
+### [Exadel](https://exadel.com) – 2020/present <br>
 Position: Senior Software Engineer. (UI, Front-End department) <br>
-#### [**Exadel**](https://exadel.com) – 2014/2020 <br>
+### [Exadel](https://exadel.com) – 2014/2020 <br>
 Position: UI Software Engineer <br>
 
-#### [**Gurtam**](https://gurtam.com) – 2013/2014 <br>
+### [Gurtam](https://gurtam.com) – 2013/2014 <br>
 Position: Frontend Developer
 
-#### [**SaM-Solutions**](https://www.sam-solutions.com) – 2011/2013 <br>
+### [SaM-Solutions](https://www.sam-solutions.com) – 2011/2013 <br>
 Position: UI Developer
 
-#### **1stDesignStudio** – 2010/2011 <br>
+### 1stDesignStudio – 2010/2011 <br>
 Position: HTML & CSS Developer <br>
 
-### Commerce projects
+## Commerce projects
 **Verifone App Marketplace** <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals.
 
