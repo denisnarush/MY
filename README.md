@@ -6,7 +6,7 @@
 - Playing with Angular, NX and Ionic most of the time
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 - Have personal [project](https://github.com/users/denisnarush/projects/6) were I want to combine all past commercial experience, business & technical solutions and workflows
-- ~~Working on my personal view of how can be [music player](https://github.com/denisnarush/mp) used for searching new music to listen~~ (SoundCloud changed the pricing model for its API)
+- Was working on my personal idea of how [music player](https://github.com/denisnarush/mp) could be used to find and listen to new music before SoundCloud changed its API terms of service.
 
 ### Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
