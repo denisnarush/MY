@@ -1,4 +1,7 @@
 ## Who I am
+_CV was updated in Aug 2022_
+
+
 Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja
 
 Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
@@ -20,8 +23,6 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 - ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
-
-_CV was updated in Aug 2022_
 
 ## Companies
 ### [Exadel](https://exadel.com) – 2020/present <br>
