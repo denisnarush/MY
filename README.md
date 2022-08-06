@@ -154,7 +154,6 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 - WebStorm, PHPStorm, IDEA
 - Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
-- 3D Max
 
 ### OS:
 - Windows ( XP++ ), Mac OS ( 10.8+ ), Ubuntu, Debian
