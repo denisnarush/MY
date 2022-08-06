@@ -37,7 +37,28 @@ Position: HTML & CSS Developer
 ___
 
 ### Commerce projects
-[Verifone](https://verifone.com), [GHX](https://ghx.com), [Wolters Kluwer](https://wolterskluwer.com), [Wialon](https://gurtam.com/en/wialon), [HLX](https://www.hlx.com), [CenterParcs](https://www.centerparcs.com)
+**Verifone App Marketplace**
+Google Play or AppStore like market for vendors where use Verifone's terminals.
+
+
+[**GHX**](https://ghx.com)
+Market and warehouse platforms in healthcare industry.
+
+
+[**Wolters Kluwer**](https://wolterskluwer.com)
+Hybrid eBook reader app for iOS/Andoird.
+
+
+[**Wialon**](https://gurtam.com/en/wialon)
+Fleet management software platform for GPS monitoring and IoT.
+
+
+[**HLX**](https://www.hlx.com)
+Portal for booking flights in a no-frills, high-frequency, express airline company.
+
+[**CenterParcs**](https://www.centerparcs.com)
+Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands.
+
 
 ### Version Control System:
 - SVN, Git
