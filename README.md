@@ -13,8 +13,6 @@
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
 
-
-
 ### Companies
 #### [Exadel](https://exadel.com) – 2020/present
 Position: Senior Software Engineer. (UI, Front-End department)
@@ -43,29 +41,23 @@ ___
 - SVN, Git
 
 ### Bug tracking system:
-- Jira
-- Redmine
-- FogBugz
+- Jira, Redmine, FogBugz
 
 ### Methodology know:
-- [BEM](https://en.bem.info/)
-- [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
-- SCRUM
+- [BEM](https://en.bem.info/), [TDD](https://en.wikipedia.org/wiki/Test-driven_development), SCRUM
 
 ### Use in html:
 - [Типограф Муравьёва](http://mdash.ru)
 
 ### HTML:
-- HTML 4.0 +
-- Jade, Haml
-- [emmet](https://emmet.io)
+- HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравьёва](http://mdash.ru)
 
 ### CSS:
 - CSS 2.0+
 - bootstrap, gummy, [bulma](https://bulma.io/)
 - less, sass, scss
 - transforms, transitions, animations
-- table, block, flex, grids
+- table, block, flex, grids layouts
 - media queries
 - expressions in IE
 
@@ -86,6 +78,7 @@ ___
 
 ### Have experience in:
 - Responsive Web Design and Page Makeup
+- Debugging, memory leaks identification and bug solving skill
 - Mobile Web App based Sencha 2 and jQuery Mobile
 - Hybrid app development (HTML + SASS + JS(Angular) + Ionic v4+(Cordova))
 - e2e-testing hybrid application using protractor and appium
@@ -96,6 +89,7 @@ ___
 - SASS, SCSS, LESS, HAML
 - canvas, SVG
 - css-expressions
+- HTML markup for e-mails
 - [nwjs](https://nwjs.io), [electron](https://electronjs.org)
 - [TSLint](https://palantir.github.io/tslint/)
 - [.epub format](https://en.wikipedia.org/wiki/EPUB)
@@ -105,11 +99,10 @@ ___
 - PHP, TCL
 - Web Design
 - MySQL
-- [Jenkins](https://jenkins.io)
+- [Jenkins](https://jenkins.io), [SonarQube](https://www.sonarqube.org)
 - 3D Object Modeling
 - Apache Tomcat, Maven
 - WebFonts
-- Debugging, memory leaks identification and bug solving skill
 
 ### IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
@@ -123,6 +116,12 @@ ___
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [https://ngrok.com/](https://ngrok.com/)
 
+### Certificates:
+- Typing.com
+  - [Typing.com - Beginner Unit](https://www.typing.com/apiv1/student/units/1/108551407/certificate)
+  - [Typing.com - Intermediate Unit](https://www.typing.com/apiv1/student/units/2/108551407/certificate)
+  - [Typing.com - Advanced Unit](https://www.typing.com/apiv1/student/units/3/108551407/certificate)
+
 ### Plans:
 - [ReactJS](https://reactjs.org/)
 - Shell scripting for Windows, Linux, Mac
@@ -132,28 +131,19 @@ ___
 [Link](https://gist.github.com/denisnarush) to my Gist
 
 ### OS:
-- Windows ( XP++ )
-- Mac OS ( 10.8+ )
-- Ubuntu, Debian
+- Windows ( XP++ ), Mac OS ( 10.8+ ), Ubuntu, Debian
 
-### Working on:
+### Working Setup:
 - iPhone X 64Gb
 - MacBook PRO 13' (macOS Mojave 10.14)
-- PC (32Gb RAM, 2Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
+- PC (32Gb RAM, 4Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Personal projects
 [chars-score](https://github.com/denisnarush/chars-score), [mp](https://github.com/denisnarush/mp)
 
 ### Languages:
 - Russian
-- English (B1+)
-
-### Certificates:
-- Typing.com
-  - [Typing.com - Beginner Unit](https://www.typing.com/apiv1/student/units/1/108551407/certificate)
-  - [Typing.com - Intermediate Unit](https://www.typing.com/apiv1/student/units/2/108551407/certificate)
-  - [Typing.com - Advanced Unit](https://www.typing.com/apiv1/student/units/3/108551407/certificate)
-
+- English (B2)
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
