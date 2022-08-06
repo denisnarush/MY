@@ -37,7 +37,7 @@ Position: UI Developer
 ### 1stDesignStudio – 2010/2011 <br>
 Position: HTML & CSS Developer <br>
 
-## Commerce projects
+## Commercial projects and experiences
 **Verifone App Marketplace** <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals.
 
@@ -60,6 +60,7 @@ Portal for booking flights in a no-frills, high-frequency, express airline compa
 [**CenterParcs**](https://www.centerparcs.com) <br>
 Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands.
 
+## Skills list
 ### Version Control System:
 - SVN, Git
 
