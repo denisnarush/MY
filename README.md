@@ -170,7 +170,7 @@ Portal for Center Parcs Europe is a European network of holiday villages that wa
 - Russian
 - English (B2)
 
-#### Updated in Aug 2022
+_Updated in Aug 2022_
 
 [skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
