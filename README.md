@@ -24,6 +24,13 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
+## Plans:
+- [ReactJS](https://reactjs.org/)
+- Shell scripting for Windows, Linux, Mac
+- [Docker](https://www.docker.com/)
+- Grow in Tech Lead way
+- Understang Quantum programming
+
 ## Companies
 ### [Exadel](https://exadel.com) – 2020/present <br>
 Position: Senior Software Engineer. (UI, Front-End department) <br>
@@ -70,13 +77,16 @@ Git, SVN
 **Bug tracking system**: <br>
 Jira, Redmine, FogBugz
 
+
 **Methodology know**: <br>
 [BEM](https://en.bem.info/), [TDD](https://en.wikipedia.org/wiki/Test-driven_development), SCRUM
 
-### HTML:
-- HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравьёва](http://mdash.ru)
 
-### CSS:
+**HTML**: <br>
+HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравьёва](http://mdash.ru)
+
+
+**CSS**:
 - CSS 2.0+
 - bootstrap, gummy, [bulma](https://bulma.io/)
 - less, sass, scss
@@ -85,7 +95,7 @@ Jira, Redmine, FogBugz
 - media queries
 - expressions in IE
 
-### javascript:
+**javascript**:
 - ES5+
 - AngularJS, Angular 2+
 - [TypeScript](https://www.typescriptlang.org)
@@ -100,7 +110,7 @@ Jira, Redmine, FogBugz
 - Karma, Grunt, Gulp, Webpack
 - npm, bower
 
-### Have experience in:
+**Have experience in**:
 - Responsive Web Design and Page Makeup
 - Debugging, memory leaks identification and bug solving skill
 - Mobile Web App based Sencha 2 and jQuery Mobile
@@ -119,7 +129,7 @@ Jira, Redmine, FogBugz
 - [.epub format](https://en.wikipedia.org/wiki/EPUB)
 - [NX for Monorepos](https://nx.dev/)
 
-### Other:
+**Other**:
 - PHP, TCL
 - Web Design
 - MySQL
@@ -127,11 +137,6 @@ Jira, Redmine, FogBugz
 - 3D Object Modeling
 - Apache Tomcat, Maven
 - WebFonts
-
-## Plans:
-- [ReactJS](https://reactjs.org/)
-- Shell scripting for Windows, Linux, Mac
-- [Docker](https://www.docker.com/)
 
 ### Reading:
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
