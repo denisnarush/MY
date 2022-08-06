@@ -17,48 +17,38 @@
 
 ### Companies
 #### [Exadel](https://exadel.com) – 2020/present
-Position: Senior Software Engineer. (UI, Front-End department)
-
+Position: Senior Software Engineer. (UI, Front-End department) <br>
 #### [Exadel](https://exadel.com) – 2014/2020
-Position: UI Software Engineer
-
+Position: UI Software Engineer <br>
 ___
 #### [Gurtam](https://gurtam.com) – 2013/2014
-Position: Frontend Developer
-
+Position: Frontend Developer <br>
 ___
-#### [SaM-Solutions](https://www.sam-solutions.com) – 2011/2013
-Position: UI Developer
-
+[**SaM-Solutions**](https://www.sam-solutions.com) – 2011/2013 <br>
+Position: UI Developer <br>
 ___
-#### 1stDesignStudio – 2010/2011
-Position: HTML & CSS Developer
-
+**1stDesignStudio** – 2010/2011 <br>
+Position: HTML & CSS Developer <br>
 ___
 
 ### Commerce projects
-**Verifone App Marketplace**
-
+**Verifone App Marketplace** <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals.
 
 
-[**GHX**](https://ghx.com)
-
+[**GHX**](https://ghx.com) <br>
 Market and warehouse platforms in healthcare industry.
 
 
-[**Wolters Kluwer**](https://wolterskluwer.com)
-
+[**Wolters Kluwer**](https://wolterskluwer.com) <br>
 Hybrid eBook reader app for iOS/Andoird.
 
 
-[**Wialon**](https://gurtam.com/en/wialon)
-
+[**Wialon**](https://gurtam.com/en/wialon) <br>
 Fleet management software platform for GPS monitoring and IoT.
 
 
-[**HLX**](https://www.hlx.com)
-
+[**HLX**](https://www.hlx.com) <br>
 Portal for booking flights in a no-frills, high-frequency, express airline company.
 
 [**CenterParcs**](https://www.centerparcs.com)
