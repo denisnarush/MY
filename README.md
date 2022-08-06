@@ -5,7 +5,8 @@
 - Have 7 years of mentoring experience. All students successfully found jobs in IT-companies
 - Playing with Angular, NX and Ionic most of the time
 - Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
-- ~~Working on my personal view of how can be [music player](https://github.com/denisnarush/mp) used for searching new music to listen~~ (SoundCloud Change his pricing model for their API)
+- Have personal [project](https://github.com/users/denisnarush/projects/6) were I want to combine all past commercial experience, business & technical solutions and workflows
+- ~~Working on my personal view of how can be [music player](https://github.com/denisnarush/mp) used for searching new music to listen~~ (SoundCloud changed the pricing model for its API)
 
 ### Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
