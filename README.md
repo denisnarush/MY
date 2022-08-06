@@ -128,11 +128,10 @@ Portal for Center Parcs Europe is a European network of holiday villages that wa
 - Apache Tomcat, Maven
 - WebFonts
 
-### IDE & EDITORS:
-- WebStorm, PHPStorm, IDEA
-- Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
-- Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
-- 3D Max
+## Plans:
+- [ReactJS](https://reactjs.org/)
+- Shell scripting for Windows, Linux, Mac
+- [Docker](https://www.docker.com/)
 
 ### Reading:
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
@@ -146,10 +145,12 @@ Portal for Center Parcs Europe is a European network of holiday villages that wa
   - [Typing.com - Intermediate Unit](https://www.typing.com/apiv1/student/units/2/108551407/certificate)
   - [Typing.com - Advanced Unit](https://www.typing.com/apiv1/student/units/3/108551407/certificate)
 
-### Plans:
-- [ReactJS](https://reactjs.org/)
-- Shell scripting for Windows, Linux, Mac
-- [Docker](https://www.docker.com/)
+
+### IDE & EDITORS:
+- WebStorm, PHPStorm, IDEA
+- Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
+- Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
+- 3D Max
 
 ### Gist
 [Link](https://gist.github.com/denisnarush) to my Gist
