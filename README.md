@@ -63,13 +63,15 @@ Portal for booking flights in a no-frills, high-frequency, express airline compa
 Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands.
 
 ## Skills list
-**Version Control System:** Git, SVN 
+**Version Control System:** <br>
+Git, SVN
 
 
-**Bug tracking system**: Jira, Redmine, FogBugz
+**Bug tracking system**: <br>
+Jira, Redmine, FogBugz
 
-### Methodology know:
-- [BEM](https://en.bem.info/), [TDD](https://en.wikipedia.org/wiki/Test-driven_development), SCRUM
+**Methodology know**: <br>
+[BEM](https://en.bem.info/), [TDD](https://en.wikipedia.org/wiki/Test-driven_development), SCRUM
 
 ### HTML:
 - HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравьёва](http://mdash.ru)
