@@ -24,7 +24,7 @@ Was working on my personal idea of how [music player](https://github.com/denisna
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 
-## Plans:
+## Plans
 - [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
 - Shell scripting for Windows, Linux, Mac
 - Grow into a technical lead and then become a chief engineer
