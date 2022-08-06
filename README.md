@@ -63,8 +63,7 @@ Fleet management software platform for GPS monitoring and IoT.
 [**HLX**](https://www.hlx.com) <br>
 Portal for booking flights in a no-frills, high-frequency, express airline company.
 
-[**CenterParcs**](https://www.centerparcs.com)
-
+[**CenterParcs**](https://www.centerparcs.com) <br>
 Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands.
 
 ### Version Control System:
