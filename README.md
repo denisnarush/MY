@@ -39,7 +39,7 @@ Position: HTML & CSS Developer <br>
 **Verifone App Marketplace** <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals. <br>
 __Stack__: HTML, CSS (scss), JS (Angular on Web, IONIC + Codova on custom Verifone Terminal), [Nx](https://nx.dev),  Git (BitBucket), UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
-__Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whitelisting), Tags Management, Whitelabeling and multitenant (themeing). Create and support tool for generation _angular.json_. At the beginning of the 2nd release, I was responsible for delivering the Feature as a service structure, CI/CD process Web/Ionic parts, collaboration with parallel teams. Conducted regular demos at the end of each iteration. Was a "last stand person"
+__Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whitelisting), Tags Management, Whitelabeling and multitenant (theming). Create and support tool for generation _angular.json_. At the beginning of the 2nd release, I was responsible for delivering the Feature as a service structure, CI/CD process Web/Ionic parts, collaboration with parallel teams. Conducted regular demos at the end of each iteration. Was a "last stand person"
 
 
 [**GHX**](https://ghx.com) <br>
@@ -49,7 +49,7 @@ __Responsibilities__: Mostly did IONIC on both platforms. Researched and prepare
 
 
 [**Wolters Kluwer**](https://wolterskluwer.com) <br>
-Hybrid eBook reader app for iOS/Andoird. <br>
+Hybrid eBook reader app for iOS/Android. <br>
 __Stack__: HTML, CSS (sass), JS (ExtJs [Sencha](https://www.sencha.com), AngularJS), Git, ePub, e2e ([protractor](https://www.protractortest.org/)) <br>
 __Responsibilities__: Responsible for tool that was developed for converting from old ePub to new ePub with additional modifications. Developed text select, highlight and book scrolling. Was a part of test automation team.
 
