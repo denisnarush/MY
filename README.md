@@ -39,7 +39,7 @@ Position: UI Software Engineer <br>
 ### [Gurtam](https://gurtam.com) – 2013/2014 <br>
 Position: Frontend Developer
 
-### [SaM-Solutions](https://www.sam-solutions.com) – 2011/2013 <br>
+### [SaM-Solutions](https://www.sam-solutions.com) – 2011/2013
 Position: UI Developer
 
 ### 1stDesignStudio – 2010/2011 <br>
@@ -55,30 +55,30 @@ __Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whi
 [**GHX**](https://ghx.com) <br>
 Market and warehouse platforms in healthcare industry. <br>
 __Stack__: HTML, CSS (less), JS (Angular on Web, IONIC + Cordova on iOS/Android), Git (GitLab) UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
-__Responsibilities__: 
+__Responsibilities__: Mostly did IONIC on both platforms. Researched and prepared the CI/CD process for the two platforms and was the person who solved the plugin issue related to the barcode scanning process. Introduced and implemented BEM into the project.
 
 
 [**Wolters Kluwer**](https://wolterskluwer.com) <br>
 Hybrid eBook reader app for iOS/Andoird. <br>
 __Stack__: HTML, CSS (sass), JS (ExtJs [Sencha](https://www.sencha.com), AngularJS), Git, ePub, e2e ([protractor](https://www.protractortest.org/)) <br>
-__Responsibilities__
+__Responsibilities__: Responsible for tool that was developed for converting from old ePub to new ePub with additional modifications. Developed text select, highlight and book scrolling. Was a part of test automation team.
 
 
 [**Wialon**](https://gurtam.com/en/wialon) <br>
 Fleet management software platform for GPS monitoring and IoT. <br>
 __Stack__: HTML, CSS, JS ([qooxdoo](https://qooxdoo.org/)), Git (Local Server) <br>
-__Responsibilities__:
+__Responsibilities__: Was responsible for UI design modifications.
 
 
 [**HLX**](https://www.hlx.com) <br>
 Portal for booking flights in a no-frills, high-frequency, express airline company. <br>
 __Stack__: HTML, CSS, JS (jQuery), SVN <br>
-__Responsibilities__:
+__Responsibilities__: Worked on few components related to dates selection and client information form. Mostly was involved into cross browser capability issues, graphics optimization with use of "graceful degradation" methodology.
 
 [**CenterParcs**](https://www.centerparcs.com) <br>
 Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands. <br>
 __Stack__: HTML, CSS, SVN <br>
-__Responsibilities__:
+__Responsibilities__: HTML + CSS markups.
 
 ## Skills list
 **Version Control System:** <br>
