@@ -18,7 +18,7 @@ Have personal [project](https://github.com/users/denisnarush/projects/6) were I 
 - [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
 - Shell scripting for Windows, Linux, Mac
 - Grow into a technical lead and then become a chief engineer
-- Understang Quantum programming
+- Understand quantum programming
 
 ## Companies
 ### [Exadel](https://exadel.com) – 2020/present <br>
