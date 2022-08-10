@@ -47,26 +47,38 @@ Position: HTML & CSS Developer <br>
 
 ## Commercial projects and experiences
 **Verifone App Marketplace** <br>
-Google Play or AppStore like market for vendors where use Verifone's terminals.
+Google Play or AppStore like market for vendors where use Verifone's terminals. <br>
+__Stack__: HTML, CSS (scss), JS (Angular on Web, IONIC + Codova on custom Verifone Terminal), [Nx](https://nx.dev),  Git (BitBucket), UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
+__Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whitelisting), Tags Management, Whitelabeling and multitenant (themeing). Create and support tool for generation _angular.json_. At the beginning of the 2nd release, I was responsible for delivering the Feature as a service structure, CI/CD process Web/Ionic parts, collaboration with parallel teams. Conducted regular demos at the end of each iteration. Was a "last stand person"
 
 
 [**GHX**](https://ghx.com) <br>
-Market and warehouse platforms in healthcare industry.
+Market and warehouse platforms in healthcare industry. <br>
+__Stack__: HTML, CSS (less), JS (Angular on Web, IONIC + Cordova on iOS/Android), Git (GitLab) UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
+__Responsibilities__: 
 
 
 [**Wolters Kluwer**](https://wolterskluwer.com) <br>
-Hybrid eBook reader app for iOS/Andoird.
+Hybrid eBook reader app for iOS/Andoird. <br>
+__Stack__: HTML, CSS (sass), JS (ExtJs [Sencha](https://www.sencha.com), AngularJS), Git, ePub, e2e ([protractor](https://www.protractortest.org/)) <br>
+__Responsibilities__
 
 
 [**Wialon**](https://gurtam.com/en/wialon) <br>
-Fleet management software platform for GPS monitoring and IoT.
+Fleet management software platform for GPS monitoring and IoT. <br>
+__Stack__: HTML, CSS, JS ([qooxdoo](https://qooxdoo.org/)), Git (Local Server) <br>
+__Responsibilities__:
 
 
 [**HLX**](https://www.hlx.com) <br>
-Portal for booking flights in a no-frills, high-frequency, express airline company.
+Portal for booking flights in a no-frills, high-frequency, express airline company. <br>
+__Stack__: HTML, CSS, JS (jQuery), SVN <br>
+__Responsibilities__:
 
 [**CenterParcs**](https://www.centerparcs.com) <br>
-Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands.
+Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands. <br>
+__Stack__: HTML, CSS, SVN <br>
+__Responsibilities__:
 
 ## Skills list
 **Version Control System:** <br>
