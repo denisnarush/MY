@@ -2,21 +2,9 @@
 _CV was updated in Aug 2022_
 
 
-Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja
+Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja. Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process. Have more than 12 years of commercial experience and 7 years of mentoring experience. All students successfully found jobs in IT-companies. Playing with Angular, NX and Ionic most of the time. Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
 
-Know about [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process
-
-Have more than 12 years of commercial experience and 7 years of mentoring experience. All students successfully found jobs in IT-companies
-
-Playing with Angular, NX and Ionic most of the time
-
-
-Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
-
-Have personal [project](https://github.com/users/denisnarush/projects/6) were I want to combine all past commercial experience, business & technical solutions and workflows
-
-
-Was working on my personal idea of how [music player](https://github.com/denisnarush/mp) could be used to find and listen to new music before SoundCloud changed its API terms of service.
+Have personal [project](https://github.com/users/denisnarush/projects/6) were I want to combine all past commercial experience, business & technical solutions and workflows. Was working on my personal idea of how [music player](https://github.com/denisnarush/mp) could be used to find and listen to new music before SoundCloud changed its API terms of service.
 
 ## Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
