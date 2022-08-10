@@ -13,6 +13,7 @@ Have personal [project](https://github.com/users/denisnarush/projects/6) were I 
 - ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
+- ![alt-text][telegram-icon] [Telegram](https://t.me/denisnarush)
 
 ## Plans
 - [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
@@ -171,3 +172,4 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
 [github-icon]: https://img.icons8.com/windows/20/000000/github.png "GitHub Icon"
 [linkedin-icon]: https://img.icons8.com/windows/20/000000/linkedin.png "LinkedIn Icon"
+[telegram-icon]: https://img.icons8.com/sf-black-filled/20/telegram.png "Telegram"
