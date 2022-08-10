@@ -36,36 +36,36 @@ Position: UI Developer
 Position: HTML & CSS Developer <br>
 
 ## Commercial projects and experiences
-**Verifone App Marketplace** <br>
+<ins>**Verifone App Marketplace**</ins> <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals. <br>
 __Stack__: HTML, CSS (scss), JS (Angular on Web, IONIC + Codova on custom Verifone Terminal), [Nx](https://nx.dev),  Git (BitBucket), UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
 __Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whitelisting), Tags Management, Whitelabeling and multitenant (theming). Create and support tool for generation _angular.json_. At the beginning of the 2nd release, I was responsible for delivering the Feature as a service structure, CI/CD process Web/Ionic parts, collaboration with parallel teams. Conducted regular demos at the end of each iteration. Was a "last stand person"
 
 
-[**GHX**](https://ghx.com) <br>
+<ins>[**GHX**](https://ghx.com)</ins> <br>
 Market and warehouse platforms in healthcare industry. <br>
 __Stack__: HTML, CSS (less), JS (Angular on Web, IONIC + Cordova on iOS/Android), Git (GitLab) UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
 __Responsibilities__: Mostly did IONIC on both platforms. Researched and prepared the CI/CD process for the two platforms and was the person who solved the plugin issue related to the barcode scanning process. Introduced and implemented BEM into the project.
 
 
-[**Wolters Kluwer**](https://wolterskluwer.com) <br>
+<ins>[**Wolters Kluwer**](https://wolterskluwer.com)</ins> <br>
 Hybrid eBook reader app for iOS/Android. <br>
 __Stack__: HTML, CSS (sass), JS (ExtJs [Sencha](https://www.sencha.com), AngularJS), Git, ePub, e2e ([protractor](https://www.protractortest.org/)) <br>
 __Responsibilities__: Responsible for tool that was developed for converting from old ePub to new ePub with additional modifications. Developed text select, highlight and book scrolling. Was a part of test automation team.
 
 
-[**Wialon**](https://gurtam.com/en/wialon) <br>
+<ins>[**Wialon**](https://gurtam.com/en/wialon)</ins> <br>
 Fleet management software platform for GPS monitoring and IoT. <br>
 __Stack__: HTML, CSS, JS ([qooxdoo](https://qooxdoo.org/)), Git (Local Server) <br>
 __Responsibilities__: Was responsible for UI design modifications.
 
 
-[**HLX**](https://www.hlx.com) <br>
+<ins>[**HLX**](https://www.hlx.com)</ins> <br>
 Portal for booking flights in a no-frills, high-frequency, express airline company. <br>
 __Stack__: HTML, CSS, JS (jQuery), SVN <br>
 __Responsibilities__: Worked on few components related to dates selection and client information form. Mostly was involved into cross browser capability issues, graphics optimization with use of "graceful degradation" methodology.
 
-[**CenterParcs**](https://www.centerparcs.com) <br>
+<ins>[**CenterParcs**](https://www.centerparcs.com)</ins> <br>
 Portal for Center Parcs Europe is a European network of holiday villages that was founded in the Netherlands. <br>
 __Stack__: HTML, CSS, SVN <br>
 __Responsibilities__: HTML + CSS markups.
