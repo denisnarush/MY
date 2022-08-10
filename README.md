@@ -138,7 +138,7 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 - WebFonts
 
 ### Reading:
-- [Чистый Код. Роберт Мартин](https://oz.by/books/more10109592.html)
+- [Чистый Код. Роберт Мартин](https://oz.by/books/more10109592.html), [Чистая Архитектура. Роберт Мартин](https://oz.by/books/more10682440.html)
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) Nicholas C. Zakas
 - [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
