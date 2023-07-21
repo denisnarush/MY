@@ -2,7 +2,7 @@
 _CV was updated in Aug 2022_
 
 
-Front-End (and only front-end) senior engineer and I ❤ vanilla JS. HTML, CSS Ninja. Know about Flow and I believe that the development is a creative process. 
+Senior Front-End (and only front-end) engineer and I ❤ vanilla JS. HTML, CSS Ninja. Know about Flow and I believe that the development is a creative process. 
 
 Have more than 13 years of commercial experience and 7 years of coaching experience. All students successfully found jobs in IT-companies.
 
