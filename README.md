@@ -3,7 +3,7 @@ _CV was updated in Aug 2023_
 
 Senior frontend engineer with more than 13 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
-Main areas of expertise are: Web apps / Mobile (hybrid) apps. Angular, Ionic, TypeScript, RxJs, Javascript, Nx.
+Main areas of expertise are: Web apps / Mobile (hybrid) apps. [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [TypeScript](https://www.typescriptlang.org/), [RxJs](https://www.learnrxjs.io/), Javascript, [Nx](https://nx.dev/).
 
 Responsibilities:
 - Ship high-quality, well-tested, secure, and maintainable code;
