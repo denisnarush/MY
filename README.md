@@ -117,44 +117,45 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 
 **CSS**:
 - CSS 2.0+
-- bootstrap, gummy, [bulma](https://bulma.io/)
+- [bulma](https://bulma.io/), bootstrap, gummy
 - less, sass, scss
 - transforms, transitions, animations
 - table, block, flex, grids layouts
 - media queries
-- expressions in IE
+- expressions
 
 **javascript**:
 - ES5+
 - AngularJS, Angular 2+ ([Material UI](https://material.angular.io), [PrimeNG](https://primeng.org/))
 - [TypeScript](https://www.typescriptlang.org)
-- [Ionic 3+](https://ionicframework.com/), jQuery Mobile, Sencha touch 2
-- Underscore, Lodash, jQuery,
-- BackboneJS
+- [Ionic](https://ionicframework.com/), jQuery Mobile, Sencha touch 2
+- Ramda, Underscore, Lodash, jQuery
+- Highcharts, AG Grid, BackboneJS
 - Fabric.js, D3js
 - [JSDoc](https://jsdoc.app)
-- [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
+- [NgRx](https://ngrx.io), [Redux](https://redux.js.org/), [Akita](https://netbasal.gitbook.io/akita/)
 - [mustache](https://mustache.github.io), [Handlebars.js](http://handlebarsjs.com)
-- [Jest](https://jestjs.io/), [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org)
+- [Jest](https://jestjs.io/), [jasmine](https://jasmine.github.io), [mocha](https://mochajs.org), [Cypress](https://cypress.io), [playwright](https://playwright.dev)
 - Karma, Grunt, Gulp, Webpack
-- npm, bower
+- npm, bower, yarn, pnpm
 
 **Have experience in**:
+- Micro Front End Architecture
 - Responsive Web Design and Page Makeup
 - Debugging, memory leaks identification and bug solving skill
 - Mobile Web App based Sencha 2 and jQuery Mobile
 - Hybrid app development (HTML + SASS + JS(Angular) + Ionic v4+(Cordova))
-- e2e-testing hybrid application using protractor and appium
+- e2e-testing hybrid application using Protractor + Appium
+- e2e-automation with Cypress, Playwright
+- BFF with GraphQL
 - Google and Yandex maps API
 - graphic optimization and sprites
 - js profiling and code coverage
-- Makeup pages for JAVA, .NET, PHP, Ruby
-- SASS, SCSS, LESS, HAML
-- canvas, SVG
-- css-expressions
+- Makeup pages (SSR) JAVA, .NET, PHP, Ruby
 - HTML markup for e-mails
+- SASS, SCSS, LESS, HAML
+- canvas, SVG, WebGPU
 - [nwjs](https://nwjs.io), [electron](https://electronjs.org)
-- [TSLint](https://palantir.github.io/tslint/)
 - [.epub format](https://en.wikipedia.org/wiki/EPUB)
 - [NX for Monorepos](https://nx.dev/)
 
@@ -162,7 +163,7 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 - PHP, TCL
 - Web Design
 - MySQL
-- [Jenkins](https://jenkins.io), [SonarQube](https://www.sonarqube.org)
+- Azure DevOps, [Jenkins](https://jenkins.io), [SonarQube](https://www.sonarqube.org)
 - 3D Object Modeling
 - Apache Tomcat, Maven
 - WebFonts
