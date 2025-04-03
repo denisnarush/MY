@@ -27,37 +27,3 @@ h2 {
     margin-right: -24px;
   }
 }
-
-[id^="exadel"]:before,
-[id^="gurtam"]:before,
-[id^="sam-solutions"]:before {
-    content: "";
-    left: 100%;
-    position: relative;
-    display: inline-block;
-    background-size: cover;
-    vertical-align: middle;
-    margin: 0 0 0 -32px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    width: 32px;
-    height: 32px;
-}
-
-
-[id^="gurtam"]:before {
-    background-image: url("https://gurtam.com/favicon.ico");
-}
-
-[id^="exadel"]:before {
-  background-image: url("https://exadel.com/wp-content/themes/exadel-2023/assets/icons/favicons/favicon-32x32.png");
-}
-
-[id^="sam-solutions"]:before {
-    background-color: #3270B7;
-    background-image: url("https://sam-solutions.com/bitrix/templates/sam/img/logo.png");
-    background-size: 54px 30px;
-    margin: 0 0 0 -58px;
-    width: 58px;
-    height: 32px;
-}
