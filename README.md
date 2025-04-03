@@ -177,17 +177,18 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
   - [Typing.com - Intermediate Unit](https://www.typing.com/apiv1/student/units/2/108551407/certificate)
   - [Typing.com - Advanced Unit](https://www.typing.com/apiv1/student/units/3/108551407/certificate)
 
-
 ### IDE & EDITORS:
 - WebStorm, PHPStorm, IDEA
 - Aptana, [Brackets](http://brackets.io/), SublimeText 2, [Visual Studio Code](https://code.visualstudio.com/)
 - Photoshop, Illustrator, Color quantize, [SketchApp](https://www.sketchapp.com)
 
 ### OS:
-- Windows ( XP++ ), Mac OS ( 10.8+ ), Ubuntu, Debian
+- Windows ( XP+ ), Mac OS ( 10.8+ ), Ubuntu, Debian
 
 ### Working Setup:
 - iPhone X 64Gb
+- iPad Pro M4
+- Mac Mini M4 (4k Monitor)
 - PC (32Gb RAM, 4Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
 ### Personal projects
