@@ -117,7 +117,7 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 
 **CSS**:
 - CSS 2.0+
-- [bulma](https://bulma.io/), bootstrap, gummy
+- [bulma](https://bulma.io/), bootstrap
 - less, sass, scss
 - transforms, transitions, animations
 - table, block, flex, grids layouts
