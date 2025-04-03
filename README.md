@@ -1,7 +1,7 @@
 ## Who I am
-_CV was updated in Aug 2023_
+_CV was updated in April 2025_
 
-Senior frontend engineer with more than 13 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
+Senior frontend engineer with 15 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
 Main areas of expertise are: Web apps / Mobile (hybrid) apps. [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [TypeScript](https://www.typescriptlang.org/), [RxJs](https://www.learnrxjs.io/), Javascript, [Nx](https://nx.dev/).
 
@@ -47,7 +47,9 @@ My Values:
 - Understand quantum programming
 
 ## Companies
-### [Exadel](https://exadel.com) – 2020/present <br>
+### [CTCo](http://ctco.eu) - 2024/present <br>
+Position: Lead Software Engineer
+### [Exadel](https://exadel.com) – 2020/2024 <br>
 Position: Senior Software Engineer. (UI, Front-End department) <br>
 ### [Exadel](https://exadel.com) – 2014/2020 <br>
 Position: UI Software Engineer <br>
