@@ -37,8 +37,8 @@ My Values:
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
 - ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
-- ![alt text][skype-icon] [skype:denisnarush](skype:denisnarush?chat)
 - ![alt-text][telegram-icon] [Telegram](https://t.me/denisnarush)
+- Phone: [+37533-311-6222](tel://+375333116222)
 
 ## Plans
 - [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
@@ -47,10 +47,12 @@ My Values:
 - Understand quantum programming
 
 ## Companies
-### [CTCo](http://ctco.eu) - 2024/present <br>
+### [CTCo](http://ctco.eu) - 2023/2025
 Position: Lead Software Engineer
+
 ### [Exadel](https://exadel.com) – 2020/2024 <br>
 Position: Senior Software Engineer. (UI, Front-End department) <br>
+
 ### [Exadel](https://exadel.com) – 2014/2020 <br>
 Position: UI Software Engineer <br>
 
@@ -194,7 +196,6 @@ HTML 4.0+, Jade, Haml, [emmet](https://emmet.io), [Типограф Муравь
 - Mac Mini M4 (4k Monitor)
 - PC (32Gb RAM, 4Gb VRAM, Intel Core i5, SSD m2, 2560x1440 Monitor)
 
-[skype-icon]: https://img.icons8.com/windows/20/000000/skype.png "Skype Icon"
 [email-icon]: https://img.icons8.com/windows/20/000000/email.png "Email Icon"
 [github-icon]: https://img.icons8.com/windows/20/000000/github.png "GitHub Icon"
 [linkedin-icon]: https://img.icons8.com/windows/20/000000/linkedin.png "LinkedIn Icon"
