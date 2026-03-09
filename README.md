@@ -38,7 +38,7 @@ My Values:
 - ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/dzianis-narush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
 - ![alt-text][telegram-icon] [Telegram](https://t.me/i_am_sand_man)
-- Phone: [+37533-311-6222](tel://+375333116222)
+- [+37533-311-6222](tel:+375333116222)
 
 ## Plans
 - [ReactJS](https://reactjs.org/), [Docker](https://www.docker.com/)
