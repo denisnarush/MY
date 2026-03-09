@@ -1,7 +1,7 @@
-## Who I am
-_CV was updated in April 2025_
+## Denis Narush
+_CV was updated in March 2026_
 
-Senior frontend engineer with 15 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
+Senior/Lead Frontend engineer with 15 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
 
 Main areas of expertise are: Web apps / Mobile (hybrid) apps. [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [TypeScript](https://www.typescriptlang.org/), [RxJs](https://www.learnrxjs.io/), Javascript, [Nx](https://nx.dev/).
 
