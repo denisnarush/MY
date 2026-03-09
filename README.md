@@ -66,8 +66,43 @@ Position: UI Developer
 Position: HTML & CSS Developer <br>
 
 ## Commercial projects and experiences
+
+
+<ins>**[Swiss Re](https://www.swissre.com)**</ins> <br>
+The Swiss Re Group is one of the world's leading providers of reinsurance and insurance. The work concerned internal platforms separated by types of reinsurance.<br>
+__Stack__: Leading Development Teams, Technical Leadership, Apollo GraphQL, BFF, Angular, RxJS, Signals<br>
+__Responsibilities__: Led two software development teams for reinsurance company, driving both technical execution and team development. Played a central role in project delivery, architecture design, and team culture, mentoring
+
+Team Leadership & Mentorship
+Managed and supported two teams.
+Mentored three colleagues from internship to full-time software engineering roles, providing guidance on technical skills, code quality, and professional growth.
+Maintained a positive and inclusive team atmosphere, helping the team stay motivated and focused through challenges and transitions.
+
+Project Delivery & Execution
+Successfully led the development of a major product stream, taking it from early planning stages through production release.
+Oversaw sprint planning, backlog grooming, and delivery timelines, ensuring alignment with business goals and technical feasibility.
+Took ownership of key deliverables, balancing hands-on coding with leadership responsibilities.
+
+Architecture & Technical Strategy
+Designed and documented the core architecture for a new enterprise-grade web application using:
+Angular 19, Material and AgGrid for complex data handling and visualization
+Defined reusable patterns and scalable structures to support long-term maintainability and performance.
+Provided clear documentation and onboarding materials to support future development and team knowledge sharing.
+
+Strategic Involvement
+One of two key contributors in all major technical discussions, including:
+Estimation and resource planning
+Proof-of-concept development
+Technical decision-making and risk assessment
+Acted as a bridge between product owners, designers, and developers to ensure shared understanding and smooth execution.
+
+Culture & Impact
+Recognized as a core team motivator, consistently promoting a healthy work environment and team spirit.
+Helped shape a culture of ownership, transparency, and continuous improvement.
+
 <ins>**Verifone App Marketplace**</ins> <br>
 Google Play or AppStore like market for vendors where use Verifone's terminals. <br>
+
 __Stack__: HTML, CSS (scss), JS (Angular on Web, IONIC + Codova on custom Verifone Terminal), [Nx](https://nx.dev),  Git (BitBucket), UnitTest (Jest), CI/CD (Jenkins, Gradle) <br>
 __Responsibilities__: Applications Bundle (C.R.U.D., assignment, versioning, whitelisting), Tags Management, Whitelabeling and multitenant (theming). Create and support tool for generation _angular.json_. At the beginning of the 2nd release, I was responsible for delivering the Feature as a service structure, CI/CD process Web/Ionic parts, collaboration with parallel teams. Conducted regular demos at the end of each iteration. Was a "last stand person"
 
