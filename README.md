@@ -69,8 +69,9 @@ Position: HTML & CSS Developer <br>
 
 
 <ins>**[Swiss Re](https://www.swissre.com)**</ins> <br>
-The Swiss Re Group is one of the world's leading providers of reinsurance and insurance. The work concerned internal platforms separated by types of reinsurance.<br>
-__Stack__: Leading Development Teams, Technical Leadership, Apollo GraphQL, BFF, Angular, RxJS, Signals<br>
+The Swiss Re Group is one of the world's leading providers of reinsurance and insurance. The work concerned internal platforms separated by types of reinsurance. <br>
+
+__Stack__: Leading Development Teams, Technical Leadership, Apollo GraphQL, BFF, Angular, RxJS, Signals <br>
 __Responsibilities__: Led two software development teams for reinsurance company, driving both technical execution and team development. Played a central role in project delivery, architecture design, and team culture, mentoring
 
 Team Leadership & Mentorship
