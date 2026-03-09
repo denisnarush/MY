@@ -1,4 +1,3 @@
-## Denis Narush
 _CV was updated in March 2026_
 
 Senior/Lead Frontend engineer with 15 years of commercial experience. I ❤ vanilla JS. HTML and CSS. Know about  [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) and I believe that the development is a creative process.
