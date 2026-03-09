@@ -35,9 +35,9 @@ My Values:
 
 ## Contacts
 - ![alt text][github-icon] [GitHub page](https://github.com/denisnarush)
-- ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/denisnarush/)
+- ![alt text][linkedin-icon] [LinkedIn](https://www.linkedin.com/in/dzianis-narush/)
 - ![alt text][email-icon] [child.denis@gmail.com](mailto:child.denis@gmail.com)
-- ![alt-text][telegram-icon] [Telegram](https://t.me/denisnarush)
+- ![alt-text][telegram-icon] [Telegram](https://t.me/i_am_sand_man)
 - Phone: [+37533-311-6222](tel://+375333116222)
 
 ## Plans
